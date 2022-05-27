@@ -1,5 +1,5 @@
-print('What is your name ?')
-name = input()
+
+name = input("Please Enter Your name : " )
 message = 'Hope You Enjoy'
 
 for i in message:
